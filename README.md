@@ -1,1 +1,2 @@
-My Favoriate Webtoon Recomandation
+SPA example
+My Favoriate Webtoon Recommandation
