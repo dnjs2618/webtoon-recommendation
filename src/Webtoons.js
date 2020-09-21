@@ -26,10 +26,7 @@ const Webtoons = () => {
         exact={true}
         render={() => <div>원하시는 웹툰 소개를 선택해주세요</div>}
       />
-      <Route
-        path="/webtoons/naver"
-        render={() => <div>뭐가 문제야 세이 섬띵</div>}
-      />
+      <Route path="/webtoons/naver" component={NaverWebtoon} />
       <Route path="/webtoons/daum" component={DaumWebtoon} />
       <Route path="/webtoons/kakao" component={KakaoWebtoon} />
     </div>
