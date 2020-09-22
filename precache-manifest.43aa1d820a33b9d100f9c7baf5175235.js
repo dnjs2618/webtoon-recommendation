@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb6d123b3dcd0ff263c5dc7c18114080",
+    "revision": "d4def7da22d908ac29027aedca189dd0",
     "url": "/webtoon-recommendation/index.html"
   },
   {
-    "revision": "58b9cd7ad312e22f0b96",
-    "url": "/webtoon-recommendation/static/css/main.c7f74627.chunk.css"
+    "revision": "470e9bf47e846c843bba",
+    "url": "/webtoon-recommendation/static/css/main.8875889e.chunk.css"
   },
   {
     "revision": "b183b6819bea0762ff26",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtoon-recommendation/static/js/2.832b076a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58b9cd7ad312e22f0b96",
+    "revision": "470e9bf47e846c843bba",
     "url": "/webtoon-recommendation/static/js/main.0b6366e2.chunk.js"
   },
   {
