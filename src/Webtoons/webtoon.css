@@ -1,17 +1,17 @@
-.naver-webtoon-wrapper {
+.webtoon-wrapper {
   border: 1px solid black;
   margin: 10px auto;
   display: flex;
   font-size: 1.15rem;
   font-weight: 600;
 }
-.naver-webtoon-wrapper .left-column {
+.webtoon-wrapper .left-column {
   margin: 10px;
   display: flex;
   align-items: center;
 }
 
-.naver-webtoon-wrapper .right-column {
+.webtoon-wrapper .right-column {
   border-left: 1px solid black;
   flex: 1;
 }
@@ -22,14 +22,14 @@
   padding: 10px;
   justify-content: space-between;
 }
-.right-column .naver-genre {
+.right-column .genre {
   display: flex;
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid black;
   padding: 10px;
 }
-.right-column .naver-description {
+.right-column .description {
   padding: 20px;
   opacity: 0.8;
 }
@@ -40,4 +40,9 @@
   display: flex;
   justify-content: center;
   padding-bottom: 10px;
+}
+
+img {
+  width: 200px;
+  height: 142px;
 }
