@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webtoon-recommendation/static/css/main.8875889e.chunk.css",
-    "main.js": "/webtoon-recommendation/static/js/main.4d03a661.chunk.js",
-    "main.js.map": "/webtoon-recommendation/static/js/main.4d03a661.chunk.js.map",
+    "main.js": "/webtoon-recommendation/static/js/main.fc657b2e.chunk.js",
+    "main.js.map": "/webtoon-recommendation/static/js/main.fc657b2e.chunk.js.map",
     "runtime-main.js": "/webtoon-recommendation/static/js/runtime-main.c6edc734.js",
     "runtime-main.js.map": "/webtoon-recommendation/static/js/runtime-main.c6edc734.js.map",
     "static/js/2.a625823e.chunk.js": "/webtoon-recommendation/static/js/2.a625823e.chunk.js",
     "static/js/2.a625823e.chunk.js.map": "/webtoon-recommendation/static/js/2.a625823e.chunk.js.map",
     "index.html": "/webtoon-recommendation/index.html",
-    "precache-manifest.797b1044b0b58eb43c81322c1b410b6e.js": "/webtoon-recommendation/precache-manifest.797b1044b0b58eb43c81322c1b410b6e.js",
+    "precache-manifest.07fcc0c0afd7e917b0b1aba86300b306.js": "/webtoon-recommendation/precache-manifest.07fcc0c0afd7e917b0b1aba86300b306.js",
     "service-worker.js": "/webtoon-recommendation/service-worker.js",
     "static/css/main.8875889e.chunk.css.map": "/webtoon-recommendation/static/css/main.8875889e.chunk.css.map",
     "static/js/2.a625823e.chunk.js.LICENSE.txt": "/webtoon-recommendation/static/js/2.a625823e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6edc734.js",
     "static/js/2.a625823e.chunk.js",
     "static/css/main.8875889e.chunk.css",
-    "static/js/main.4d03a661.chunk.js"
+    "static/js/main.fc657b2e.chunk.js"
   ]
 }
